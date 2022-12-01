@@ -1,0 +1,157 @@
+<!doctype html>
+<html class="no-js " lang="en">
+
+<!-- Mirrored from nekorin.info/langrisser-banpick/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Nov 2022 05:04:59 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+        content="width=device-width,maximum-scale=1.0,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes" />
+    <meta name="format-detection" content="telephone=no">
+
+    <title>LangM Apex Pick/Ban Simulator - by Nekorin - forked Paytoll</title>
+    <!-- Meta -->
+    <meta name="Description" lang="en_US" content="">
+    <meta name="keywords" lang="en_US" content="">
+    <!-- SEO Tags : FB OpenGraph -->
+    <meta property="og:image" content="" />
+    <meta property="og:title" content="LangM Apex Pick/Ban Simulator - by Nekorin - forked Paytoll" />
+    <meta property="og:url" content="//nekorin.info/langrisser-banpick/" />
+    <meta property="og:site_name" content="Site Name here" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="" />
+    <meta property="og:locale" content="en_US" />
+    <!-- SEO Tags : Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@siteurl">
+    <meta name="twitter:creator" content="@author">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&amp;family=Nunito&amp;display=swap"
+        rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/commonad05.css?ver=1.4" />
+    <script src="assets/js/app-header.min.js"></script>
+</head>
+
+<body class="wp-bgbase 
+      has-mh      pagetype-homepage      ">
+    <div id="transition_bg"></div>
+    <article id="pickban_site">
+        <div class="main-wrapper">
+            <h1>LangM Apex Pick/Ban Simulator - ver 0.43</h1>
+            <h4>by Nekorin - forked Paytoll</h4>
+            <div id="banpick_container">
+                <div class="col0">
+                    <div class="nsticky">
+                        <div id="boxlist_container">
+                            <h2>Box List</h2>
+                            <div id="box_list">
+
+                            </div>
+                            <div class="boxlist-actions">
+                                <div id="box_add" class="button">Add a Box</div>
+                                <div id="box_import" class="button bn-import"></div>
+                                <div id="box_matchp12" class="button">Match P1 & P2</div>
+                                <div id="box_clearp12" class="button">Clear P1 & P2</div>
+                            </div>
+                        </div>
+                        <div id="match_mapcontent"></div>
+                        <div id="match_ntext"></div>
+                        <div id="site_saveimage" class="button">Download screenshot</div>
+                    </div>
+                </div>
+                <div class="col1 bpmatch-container">
+                    <div class="col-innerleft">
+                        <h2>Player 1's Box</h2>
+                        <div id="box_p1" class="bp-sim"></div>
+                    </div>
+                    <div class="col-innerright">
+                        <h2>Player 2's Box</h2>
+                        <div id="box_p2" class="bp-sim"></div>
+                    </div>
+                    <div class="col-innerbtm">
+                        <!-- Match Summary -->
+                        <div id="match_statscontainer">
+                            <h2>Ban/Pick Sequence</h2>
+                            <div id="match_stats">
+                                <div class="button button-timelineec"><span>Expand</span><span>Compress</span></div>
+                                <div id="matchstats_timeline"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <!-- Popups -->
+
+        <!-- Box -->
+        <div id="box_maker">
+            <div id="char_selectlist"></div>
+            <div class="floatbottom">
+                <div id="char_selectcount"></div>
+                <div class="box-actionlink"><label>BOX NAME:</label><input type="text" id="box_name" name="box_name" />
+                    <div id="box_save" class="button">Save Box</div>
+                    <div id="box_clear" class="button">Clear Selection</div>
+                </div>
+            </div>
+            <div class="bclose"></div>
+        </div>
+        <!-- Import Box Panel -->
+        <div id="panel_import">
+            <textarea id="import_datatext"></textarea>
+            <div id="import_abox" class="button">Import a Box</div>
+        </div>
+        <!-- Export Box Panel -->
+        <div id="panel_export">
+            <p>Box Archive Data</p>
+            <textarea id="export_datatext"></textarea>
+        </div>
+
+        <!-- Map Choice Panel -->
+        <div id="panel_mapchoice">
+            <p>Choose a map</p>
+            <div class="maps">
+                <div class="apexmap" data-type="1"></div>
+                <div class="apexmap" data-type="2"></div>
+                <div class="apexmap" data-type="3"></div>
+                <div class="apexmap" data-type="4"></div>
+                <div class="apexmap" data-type="5"></div>
+                <div class="apexmap" data-type="6"></div>
+                <div class="apexmap" data-type="7"></div>
+                <div class="apexmap" data-type="8"></div>
+                <div class="apexmap" data-type="9"></div>
+                <div class="apexmap" data-type="10"></div>
+                <div class="apexmap" data-type="11"></div>
+            </div>
+        </div>
+
+        <div id="htc_container" class="" style="display:none;"></div>
+    </article>
+    <!-- Disclaimer -->
+    <div class="disclaimer">Character thumbnails are property of <a target="_blank"
+            href="https://www.zlongame.com/html/en/index.html">紫龙游戏</a></div>
+    <div class="language-selector"><a class="active" href="index.html">English</a> <a
+            href="indexdb38.html?lang=cn">简体</a> <a href="index0dfe.html?lang=tw">繁體</a></div>
+    <!-- Breakpoints detection -->
+    <div id="breakpoints">
+        <div class="show-for-mobile-only" data-size="mobile"></div>
+        <div class="show-for-tabletportrait-only" data-size="tabletportrait"></div>
+        <div class="show-for-tabletlandscape-only" data-size="tabletlandscape"></div>
+        <div class="show-for-smalldesktop-only" data-size="smalldesktop"></div>
+        <div class="show-for-middesktop-only" data-size="desktop"></div>
+        <div class="show-for-largedesktop-up" data-size="largedesktop"></div>
+    </div>
+    <script> curLang = "en";</script>
+    <script src="assets/js/app.min4dd5.js?ver=1.41"></script>
+</body>
+
+<!-- Mirrored from nekorin.info/langrisser-banpick/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Nov 2022 05:04:59 GMT -->
+
+</html>
