@@ -1,1 +1,1 @@
-# qinxiaoapp.github.io
+# Langrisser BP Simulator
