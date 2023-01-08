@@ -7833,7 +7833,7 @@ var _banpick = (function () {
             { nid: "agnes", names: { en: "Agnès", cn: "亚妮艾丝", tw: "亞妮艾絲" }, thumbnail: "10_agnes.png" },
             { nid: "van", names: { en: "Van", cn: "范恩", tw: "范恩" }, thumbnail: "10_van.png" },
             { nid: "elaine", names: { en: "Elaine", cn: "艾蕾因", tw: "艾蕾因" }, thumbnail: "10_elaine.png" },
-            { nid: "grunhind", names: { en: "Grunhind", cn: "格伦希尔", tw: "格倫希爾" }, thumbnail: "9_grunhind.png" },
+            { nid: "grenshiel", names: { en: "Grenshiel", cn: "格伦希尔", tw: "格倫希爾" }, thumbnail: "9_grenshiel.png" },
             { nid: "yoaconna", names: { en: "Yoa & Conna", cn: "琼&康娜", tw: "瓊&康娜" }, thumbnail: "9_yoaconna.png" },
             { nid: "polyal", names: { en: "Polyal", cn: "波莉阿鲁", tw: "波莉阿魯" }, thumbnail: "9_polyal.png" },
             { nid: "lugner", names: { en: "Lugner", cn: "卢古耐尔", tw: "盧古耐爾" }, thumbnail: "9_lugner.png" },
