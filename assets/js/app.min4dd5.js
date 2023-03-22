@@ -7832,6 +7832,9 @@ var _banpick = (function () {
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
 
+            { nid: "kirika", names: { en: "Kirika", cn: "雾香", tw: "霧香" }, thumbnail: "12_kirika.png" },
+            { nid: "sonia", names: { en: "Sonia", cn: "桑妮雅", tw: "桑妮雅" }, thumbnail: "12_sonia.png" },
+            { nid: "excela", names: { en: "Excela", cn: "爱克雪拉", tw: "愛克雪拉" }, thumbnail: "12_excela.png" },
             { nid: "amadeus", names: { en: "Amadeus", cn: "阿玛迪斯", tw: "阿瑪迪斯" }, thumbnail: "11_amadeus.png" },
             { nid: "sagny", names: { en: "Sagny", cn: "萨格尼", tw: "薩格尼" }, thumbnail: "11_sagny.png" },
             { nid: "awakener", names: { en: "Awakener", cn: "醒觉者", tw: "醒覺者" }, thumbnail: "11_awakener.png" },
