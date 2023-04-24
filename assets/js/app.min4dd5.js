@@ -7852,7 +7852,7 @@ var _banpick = (function () {
             { nid: "yoaconna", names: { en: "Yoa & Conna", cn: "琼&康娜", tw: "瓊&康娜" }, thumbnail: "9_yoaconna.png" },
             { nid: "polyal", names: { en: "Polyal", cn: "波莉阿鲁", tw: "波莉阿魯" }, thumbnail: "9_polyal.png" },
             { nid: "lugner", names: { en: "Lugner", cn: "卢古耐尔", tw: "盧古耐爾" }, thumbnail: "9_lugner.png" },
-            { nid: "zion", names: { en: "Zion", cn: "席恩", tw: "席恩" }, thumbnail: "9_zion.png" },
+            { nid: "theon", names: { en: "Theon", cn: "席恩", tw: "席恩" }, thumbnail: "9_theon.png" },
             { nid: "riobec", names: { en: "Riobec", cn: "里奥贝克", tw: "里奧貝克" }, thumbnail: "9_riobec.png" },
             { nid: "swordoflightshadow", names: { en: "Sword of Light & Shadow", cn: "光影剑魄", tw: "光影劍魄" }, thumbnail: "9_swordoflightshadow.png" },
             { nid: "girlinshell", names: { en: "Girl in Shell", cn: "壳中少女", tw: "殼中少女" }, thumbnail: "9_girlinshell.png" },
