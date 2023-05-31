@@ -7880,7 +7880,7 @@ var _banpick = (function () {
             { nid: "michelle", names: { en: "Michelle", cn: "米歇尔", tw: "米歇爾" }, thumbnail: "0_michelle.webp" },
             { nid: "gustav", names: { en: "Gustav", cn: "古斯塔夫", tw: "古斯塔夫" }, thumbnail: "0_gustav.webp" },
             { nid: "liza", names: { en: "Liza", cn: "丽莎", tw: "麗莎" }, thumbnail: "1_liza.webp" },
-            { nid: "emperorlorvina", names: { en: "Emperor Lorvina", cn: "洛维奈尔大帝", tw: "洛維奈爾大帝" }, thumbnail: "0_emperor.webp" },
+            { nid: "emperorlovina", names: { en: "Emperor Lovina", cn: "洛维奈尔大帝", tw: "洛維奈爾大帝" }, thumbnail: "0_emperor.webp" },
             { nid: "arksaint", names: { en: "Saintess of the Ark", cn: "方舟圣女", tw: "方舟聖女" }, thumbnail: "0_arksaint.webp" },
             { nid: "elma", names: { en: "Elma", cn: "艾尔玛", tw: "艾爾瑪" }, thumbnail: "0_elma.webp" },
             { nid: "kertesz", names: { en: "Kertesz", cn: "凯尔蒂斯", tw: "凱爾蒂斯" }, thumbnail: "0_kertesz.webp" },
