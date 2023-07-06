@@ -7837,6 +7837,9 @@ var _banpick = (function () {
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
             { nid: "empty4", names: { en: "empty4", cn: "empty4", tw: "empty4" }, thumbnail: "000_default.png" },
 
+            { nid: "lina", names: { en: "Lina", cn: "莉娜", tw: "莉娜" }, thumbnail: "16_lina.png" },
+            { nid: "zelgadiss", names: { en: "Zelgadiss", cn: "杰路刚帝士", tw: "傑路剛帝士" }, thumbnail: "16_zelgadiss.png" },
+            { nid: "gourry", names: { en: "Gourry", cn: "高里", tw: "高里" }, thumbnail: "16_gourry.png" },
             { nid: "precia", names: { en: "Precia", cn: "普蕾茜娅", tw: "普蕾茜婭" }, thumbnail: "15_precia.png" },
             { nid: "roland", names: { en: "Roland", cn: "罗兰", tw: "羅蘭" }, thumbnail: "15_roland.png" },
             { nid: "tourmilk", names: { en: "Tourmilk", cn: "托米尔克", tw: "托米爾克" }, thumbnail: "14_tourmilk.png" },
