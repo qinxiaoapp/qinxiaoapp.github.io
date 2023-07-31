@@ -612,7 +612,7 @@ h2 {
 
 .bpchar-node.ban {
   pointer-events: none;
-  opacity: .2;
+  opacity: .35;
 }
 
 .end .bpchar-node.ban {
