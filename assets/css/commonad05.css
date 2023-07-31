@@ -972,6 +972,11 @@ label.form-err {
   background-image: url("../img/site_images/map-011.jpg");
 }
 
+.cmatchmap[data-type="12"],
+.apexmap[data-type="12"] {
+  background-image: url("../img/site_images/map-012.jpg");
+}
+
 #site_saveimage {
   margin-top: 30px;
   display: none;
