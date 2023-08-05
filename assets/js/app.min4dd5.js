@@ -7831,12 +7831,14 @@ var _banpick = (function () {
             { nid: "altemuller", names: { en: "altemuller", cn: "亚鲁特缪拉", tw: "亞魯特繆拉" }, thumbnail: "0_altemuller.png" },
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
+            { nid: "bernhardt", names: { en: "bernhardt", cn: "巴恩哈特", tw: "巴恩哈特" }, thumbnail: "0_bernhardt.png" },
 
             { nid: "empty1", names: { en: "empty1", cn: "empty1", tw: "empty1" }, thumbnail: "000_default.png" },
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
-            { nid: "empty4", names: { en: "empty4", cn: "empty4", tw: "empty4" }, thumbnail: "000_default.png" },
 
+            { nid: "apotheosis", names: { en: "Apotheosis", cn: "神降者", tw: "神降者" }, thumbnail: "17_apotheosis.png" },
+            { nid: "blackjack", names: { en: "BlackJack", cn: "杰克船长", tw: "傑克船長" }, thumbnail: "17_blackjack.png" },
             { nid: "lina", names: { en: "Lina", cn: "莉娜", tw: "莉娜" }, thumbnail: "16_lina.png" },
             { nid: "zelgadiss", names: { en: "Zelgadiss", cn: "杰路刚帝士", tw: "傑路剛帝士" }, thumbnail: "16_zelgadiss.png" },
             { nid: "gourry", names: { en: "Gourry", cn: "高里", tw: "高里" }, thumbnail: "16_gourry.png" },
@@ -7926,7 +7928,6 @@ var _banpick = (function () {
             { nid: "ares", names: { en: "ares", cn: "阿雷斯", tw: "阿雷斯" }, thumbnail: "0_ares.png" },
             { nid: "arianrhod", names: { en: "arianrhod", cn: "阿瑞安赫德", tw: "阿瑞安赫德" }, thumbnail: "0_arianrhod.png" },
             { nid: "ashram", names: { en: "ashram", cn: "亚修拉姆", tw: "亞修拉姆" }, thumbnail: "0_ashram.png" },
-            { nid: "bernhardt", names: { en: "bernhardt", cn: "巴恩哈特", tw: "巴恩哈特" }, thumbnail: "0_bernhardt.png" },
             { nid: "betty", names: { en: "betty", cn: "贝蒂", tw: "貝蒂" }, thumbnail: "0_betty.png" },
             { nid: "bozel", names: { en: "bozel", cn: "波赞鲁", tw: "波贊魯" }, thumbnail: "0_bozel.png" },
             { nid: "brenda", names: { en: "brenda", cn: "布琳达", tw: "布琳達" }, thumbnail: "0_brenda.png" },
