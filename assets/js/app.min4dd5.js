@@ -7837,6 +7837,8 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "nemia", names: { en: "Nemia", cn: "奈米娅", tw: "奈米婭" }, thumbnail: "18_nemia.png" },
+            { nid: "andriole", names: { en: "Andriole", cn: "安德里奥", tw: "安德里奧" }, thumbnail: "18_andriole.png" },
             { nid: "apotheosis", names: { en: "Apotheosis", cn: "神降者", tw: "神降者" }, thumbnail: "17_apotheosis.png" },
             { nid: "blackjack", names: { en: "BlackJack", cn: "杰克船长", tw: "傑克船長" }, thumbnail: "17_blackjack.png" },
             { nid: "lina", names: { en: "Lina", cn: "莉娜", tw: "莉娜" }, thumbnail: "16_lina.png" },
