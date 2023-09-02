@@ -69,7 +69,7 @@ var _banpick = (function () {
             { nid: "azusa", names: { en: "Azusa", cn: "梓", tw: "梓" }, thumbnail: "0_azusa.webp" },
             { nid: "oboro", names: { en: "Oboro", cn: "胧", tw: "朧" }, thumbnail: "0_oboro.webp" },
             { nid: "alicia", names: { en: "Alicia", cn: "亚莉希雅", tw: "亞莉希雅" }, thumbnail: "0_alicia.webp" },
-            { nid: "selvari", names: { en: "Selvari", cn: "塞贝莉雅", tw: "塞貝莉雅" }, thumbnail: "0_selvari.webp" },
+            { nid: "selvari", names: { en: "Selvaria", cn: "塞贝莉雅", tw: "塞貝莉雅" }, thumbnail: "0_selvari.webp" },
             { nid: "isara", names: { en: "Isara", cn: "伊莎拉", tw: "伊莎拉" }, thumbnail: "1_isara.webp" },
             { nid: "theconsul", names: { en: "The Consul", cn: "月之执政官", tw: "月之執政官" }, thumbnail: "0_consul.webp" },
             { nid: "ironchancellor", names: { en: "Iron Chancellor", cn: "铁血总帅", tw: "鐵血總帥" }, thumbnail: "0_ironchancellor.webp" },

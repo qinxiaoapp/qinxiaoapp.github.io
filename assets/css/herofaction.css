@@ -1,3 +1,21 @@
+.faction-bernhardt:hover:after {
+    content: url(../img/factions/bernhardt.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-leon:hover:after {
+    content: url(../img/factions/leon.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-matthew:hover:after {
+    content: url(../img/factions/matthew.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-nemia:hover:after {
     content: url(../img/factions/nemia.png);
     display: block;
@@ -71,6 +89,18 @@
     margin-left: -2vw;
 }
 
+.faction-sonia:hover:after {
+    content: url(../img/factions/sonia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-amadeus:hover:after {
+    content: url(../img/factions/amadeus.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-sagny:hover:after {
     content: url(../img/factions/sagny.png);
     display: block;
@@ -91,6 +121,12 @@
 
 .faction-elaine:hover:after {
     content: url(../img/factions/elaine.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-grenshiel:hover:after {
+    content: url(../img/factions/grenshiel.png);
     display: block;
     margin-left: -2vw;
 }
@@ -137,6 +173,12 @@
     margin-left: -2vw;
 }
 
+.faction-lightbringer:hover:after {
+    content: url(../img/factions/lightbringer.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-adankelmo:hover:after {
     content: url(../img/factions/adankelmo.png);
     display: block;
@@ -157,6 +199,12 @@
 
 .faction-ricky:hover:after {
     content: url(../img/factions/ricky.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-mcclaine:hover:after {
+    content: url(../img/factions/mcclaine.png);
     display: block;
     margin-left: -2vw;
 }
@@ -191,8 +239,56 @@
     margin-left: -2vw;
 }
 
+.faction-carolian:hover:after {
+    content: url(../img/factions/carolian.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-azusa:hover:after {
+    content: url(../img/factions/azusa.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-oboro:hover:after {
+    content: url(../img/factions/oboro.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-selvari:hover:after {
+    content: url(../img/factions/selvari.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-alicia:hover:after {
     content: url(../img/factions/alicia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-theconsul:hover:after {
+    content: url(../img/factions/theconsul.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-ironchancellor:hover:after {
+    content: url(../img/factions/ironchancellor.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-michelle:hover:after {
+    content: url(../img/factions/michelle.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-gustav:hover:after {
+    content: url(../img/factions/gustav.png);
     display: block;
     margin-left: -2vw;
 }
@@ -223,12 +319,6 @@
 
 .faction-mariandel:hover:after {
     content: url(../img/factions/mariandel.png);
-    display: block;
-    margin-left: -2vw;
-}
-
-.faction-bernhardt:hover:after {
-    content: url(../img/factions/bernhardt.png);
     display: block;
     margin-left: -2vw;
 }
