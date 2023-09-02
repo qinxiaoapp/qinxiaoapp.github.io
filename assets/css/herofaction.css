@@ -22,11 +22,36 @@
     margin-left: -2vw;
 }
 
+.faction-zelgadiss:hover:after {
+    content: url(../img/factions/zelgadiss.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-roland:hover:after {
+    content: url(../img/factions/roland.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-precia:hover:after {
     content: url(../img/factions/precia.png);
     display: block;
     margin-left: -2vw;
 }
+
+.faction-tourmilk:hover:after {
+    content: url(../img/factions/tourmilk.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-elise:hover:after {
+    content: url(../img/factions/elise.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 
 .faction-nymph:hover:after {
     content: url(../img/factions/nymph.png);
@@ -52,8 +77,20 @@
     margin-left: -2vw;
 }
 
+.faction-awakener:hover:after {
+    content: url(../img/factions/awakener.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-agnes:hover:after {
     content: url(../img/factions/agnes.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-elaine:hover:after {
+    content: url(../img/factions/elaine.png);
     display: block;
     margin-left: -2vw;
 }
@@ -64,8 +101,20 @@
     margin-left: -2vw;
 }
 
+.faction-polyal:hover:after {
+    content: url(../img/factions/polyal.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-lugner:hover:after {
     content: url(../img/factions/lugner.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-riobec:hover:after {
+    content: url(../img/factions/riobec.png);
     display: block;
     margin-left: -2vw;
 }
@@ -76,8 +125,104 @@
     margin-left: -2vw;
 }
 
+.faction-swordoflightshadow:hover:after {
+    content: url(../img/factions/swordoflightshadow.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-girlinshell:hover:after {
     content: url(../img/factions/girlinshell.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-adankelmo:hover:after {
+    content: url(../img/factions/adankelmo.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-gintoki:hover:after {
+    content: url(../img/factions/gintoki.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-kagura:hover:after {
+    content: url(../img/factions/kagura.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-ricky:hover:after {
+    content: url(../img/factions/ricky.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-julian:hover:after {
+    content: url(../img/factions/julian.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-wanderduel:hover:after {
+    content: url(../img/factions/wanderduel.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-rostam:hover:after {
+    content: url(../img/factions/rostam.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-ashumere:hover:after {
+    content: url(../img/factions/ashumere.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-kaguya:hover:after {
+    content: url(../img/factions/kaguya.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-alicia:hover:after {
+    content: url(../img/factions/alicia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-emperorlovina:hover:after {
+    content: url(../img/factions/emperorlovina.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-arksaint:hover:after {
+    content: url(../img/factions/arksaint.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-elma:hover:after {
+    content: url(../img/factions/elma.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-kertesz:hover:after {
+    content: url(../img/factions/kertesz.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-mariandel:hover:after {
+    content: url(../img/factions/mariandel.png);
     display: block;
     margin-left: -2vw;
 }
