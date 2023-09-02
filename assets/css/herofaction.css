@@ -1,9 +1,14 @@
-.faction-bernhardt:hover:after {
-    content: url(../img/factions/bernhardt.PNG);
+.faction-sagny:hover:after {
+    content: url(../img/factions/sagny.png);
     display: block;
 }
 
 .faction-yoaconna:hover:after {
     content: url(../img/factions/yoaconna.PNG);
+    display: block;
+}
+
+.faction-bernhardt:hover:after {
+    content: url(../img/factions/bernhardt.PNG);
     display: block;
 }
