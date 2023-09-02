@@ -1,14 +1,89 @@
+.faction-nemia:hover:after {
+    content: url(../img/factions/nemia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-andriole:hover:after {
+    content: url(../img/factions/andriole.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-apotheosis:hover:after {
+    content: url(../img/factions/apotheosis.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-lina:hover:after {
+    content: url(../img/factions/lina.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-precia:hover:after {
+    content: url(../img/factions/precia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-nymph:hover:after {
+    content: url(../img/factions/nymph.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-tatalia:hover:after {
+    content: url(../img/factions/tatalia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-kirika:hover:after {
+    content: url(../img/factions/kirika.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-sagny:hover:after {
     content: url(../img/factions/sagny.png);
     display: block;
+    margin-left: -2vw;
+}
+
+.faction-agnes:hover:after {
+    content: url(../img/factions/agnes.png);
+    display: block;
+    margin-left: -2vw;
 }
 
 .faction-yoaconna:hover:after {
     content: url(../img/factions/yoaconna.PNG);
     display: block;
+    margin-left: -2vw;
+}
+
+.faction-lugner:hover:after {
+    content: url(../img/factions/lugner.PNG);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-theon:hover:after {
+    content: url(../img/factions/theon.PNG);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-girlinshell:hover:after {
+    content: url(../img/factions/girlinshell.PNG);
+    display: block;
+    margin-left: -2vw;
 }
 
 .faction-bernhardt:hover:after {
     content: url(../img/factions/bernhardt.PNG);
     display: block;
+    margin-left: -2vw;
 }
