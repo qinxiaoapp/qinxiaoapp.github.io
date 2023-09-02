@@ -1,0 +1,9 @@
+.faction-bernhardt:hover:after {
+    content: url(../img/factions/bernhardt.PNG);
+    display: block;
+}
+
+.faction-yoaconna:hover:after {
+    content: url(../img/factions/yoaconna.PNG);
+    display: block;
+}
