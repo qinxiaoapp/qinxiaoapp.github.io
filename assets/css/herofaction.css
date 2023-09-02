@@ -59,31 +59,31 @@
 }
 
 .faction-yoaconna:hover:after {
-    content: url(../img/factions/yoaconna.PNG);
+    content: url(../img/factions/yoaconna.png);
     display: block;
     margin-left: -2vw;
 }
 
 .faction-lugner:hover:after {
-    content: url(../img/factions/lugner.PNG);
+    content: url(../img/factions/lugner.png);
     display: block;
     margin-left: -2vw;
 }
 
 .faction-theon:hover:after {
-    content: url(../img/factions/theon.PNG);
+    content: url(../img/factions/theon.png);
     display: block;
     margin-left: -2vw;
 }
 
 .faction-girlinshell:hover:after {
-    content: url(../img/factions/girlinshell.PNG);
+    content: url(../img/factions/girlinshell.png);
     display: block;
     margin-left: -2vw;
 }
 
 .faction-bernhardt:hover:after {
-    content: url(../img/factions/bernhardt.PNG);
+    content: url(../img/factions/bernhardt.png);
     display: block;
     margin-left: -2vw;
 }
