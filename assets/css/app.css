@@ -1227,3 +1227,8 @@ label.form-err {
 .expand .button.button-timelineec span:nth-child(1) {
   display: none;
 }
+
+.google-iframe iframe {
+  width: 1200px;
+  height: 700px;
+}
