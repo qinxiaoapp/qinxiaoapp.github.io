@@ -1,3 +1,5 @@
+/* SP HEROS */
+
 .faction-bernhardt:hover:after {
     content: url(../img/factions/bernhardt.png);
     display: block;
@@ -12,6 +14,28 @@
 
 .faction-matthew:hover:after {
     content: url(../img/factions/matthew.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-almeda:hover:after {
+    content: url(../img/factions/almeda.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+/* SP HEROS */
+
+
+
+.faction-hoffman:hover:after {
+    content: url(../img/factions/hoffman.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-eshean:hover:after {
+    content: url(../img/factions/eshean.png);
     display: block;
     margin-left: -2vw;
 }
