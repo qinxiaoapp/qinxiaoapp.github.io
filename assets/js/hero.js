@@ -19,11 +19,13 @@ var _banpick = (function () {
             { nid: "altemuller", names: { en: "altemuller", cn: "亚鲁特缪拉", tw: "亞魯特繆拉" }, thumbnail: "0_altemuller.png" },
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
+            { nid: "almeda", names: { en: "almeda", cn: "艾梅达", tw: "艾梅達" }, thumbnail: "3_almeda.png" },
 
-            { nid: "empty1", names: { en: "empty1", cn: "empty1", tw: "empty1" }, thumbnail: "000_default.png" },
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "hoffman", names: { en: "Nemia", cn: "霍夫曼", tw: "霍夫曼" }, thumbnail: "19_hoffman.png" },
+            { nid: "eshean", names: { en: "Eshean", cn: "艾希恩", tw: "艾希恩" }, thumbnail: "19_eshean.png" },
             { nid: "nemia", names: { en: "Nemia", cn: "奈米娅", tw: "奈米婭" }, thumbnail: "18_nemia.png" },
             { nid: "andriole", names: { en: "Andriole", cn: "安德里奥", tw: "安德里奧" }, thumbnail: "18_andriole.png" },
             { nid: "apotheosis", names: { en: "Apotheosis", cn: "神降者", tw: "神降者" }, thumbnail: "17_apotheosis.png" },
@@ -202,7 +204,6 @@ var _banpick = (function () {
             { nid: "pierre", names: { en: "pierre", cn: "皮耶鲁", tw: "皮耶魯" }, thumbnail: "2_pierre.png" },
             { nid: "rohga", names: { en: "rohga", cn: "洛加", tw: "洛加" }, thumbnail: "2_rohga.png" },
             { nid: "scott", names: { en: "scott", cn: "斯科特", tw: "斯科特" }, thumbnail: "2_scott.png" },
-            { nid: "almeda", names: { en: "almeda", cn: "艾梅达", tw: "艾梅達" }, thumbnail: "3_almeda.png" },
         ],
         r = [],
         o = !1,
