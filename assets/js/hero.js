@@ -4,6 +4,7 @@ var _banpick = (function () {
     null !== typeof curLang && (e = curLang);
     var n = "assets/img/site_assets/",
         i = [
+            { nid: "almeda", names: { en: "almeda", cn: "艾梅达", tw: "艾梅達" }, thumbnail: "3_almeda.png" },
             { nid: "bernhardt", names: { en: "bernhardt", cn: "巴恩哈特", tw: "巴恩哈特" }, thumbnail: "0_bernhardt.png" },
             { nid: "leon", names: { en: "leon", cn: "利昂", tw: "利昂" }, thumbnail: "0_leon.png" },
             { nid: "matthew", names: { en: "matthew", cn: "马修", tw: "馬修" }, thumbnail: "3_matthew.png" },
@@ -19,8 +20,6 @@ var _banpick = (function () {
             { nid: "altemuller", names: { en: "altemuller", cn: "亚鲁特缪拉", tw: "亞魯特繆拉" }, thumbnail: "0_altemuller.png" },
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
-            { nid: "almeda", names: { en: "almeda", cn: "艾梅达", tw: "艾梅達" }, thumbnail: "3_almeda.png" },
-
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
