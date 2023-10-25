@@ -26,7 +26,17 @@
 
 /* SP HEROS */
 
+.faction-jayce:hover:after {
+    content: url(../img/factions/jayce.png);
+    display: block;
+    margin-left: -2vw;
+}
 
+.faction-isolde:hover:after {
+    content: url(../img/factions/isolde.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-hoffman:hover:after {
     content: url(../img/factions/hoffman.png);
