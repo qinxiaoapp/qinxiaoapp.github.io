@@ -25,6 +25,17 @@
 }
 
 /* SP HEROS */
+.faction-patricia:hover:after {
+    content: url(../img/factions/patricia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-gunn:hover:after {
+    content: url(../img/factions/gun.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-jayce:hover:after {
     content: url(../img/factions/jayce.png);
