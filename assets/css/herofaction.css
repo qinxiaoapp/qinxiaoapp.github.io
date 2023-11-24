@@ -32,7 +32,7 @@
 }
 
 .faction-gunn:hover:after {
-    content: url(../img/factions/gun.png);
+    content: url(../img/factions/gunn.png);
     display: block;
     margin-left: -2vw;
 }
