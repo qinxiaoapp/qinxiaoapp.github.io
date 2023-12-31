@@ -25,6 +25,25 @@
 }
 
 /* SP HEROS */
+
+.faction-sho:hover:after {
+    content: url(../img/factions/sho.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-archanfel:hover:after {
+    content: url(../img/factions/archanfel.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-agito:hover:after {
+    content: url(../img/factions/agito.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-patricia:hover:after {
     content: url(../img/factions/patricia.png);
     display: block;

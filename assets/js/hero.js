@@ -24,6 +24,9 @@ var _banpick = (function () {
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
 
+            { nid: "sho", names: { en: "Sho", cn: "深町晶", tw: "深町晶" }, thumbnail: "22_sho.png" },
+            { nid: "archanfel", names: { en: "Archanfel", cn: "阿卡菲尔", tw: "阿卡菲爾" }, thumbnail: "22_archanfel.png" },
+            { nid: "agito", names: { en: "Agito", cn: "卷岛颚人", tw: "卷島顎人" }, thumbnail: "22_agito.png" },
             { nid: "patricia", names: { en: "Patricia", cn: "帕特里夏", tw: "帕特裏夏" }, thumbnail: "21_patricia.png" },
             { nid: "gunn", names: { en: "Gunn", cn: "古恩", tw: "古恩" }, thumbnail: "21_gunn.png" },
             { nid: "jayce", names: { en: "Jayce", cn: "杰斯", tw: "傑斯" }, thumbnail: "20_jayce.png" },
