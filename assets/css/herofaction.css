@@ -26,6 +26,12 @@
 
 /* SP HEROS */
 
+.faction-sovereignoficeabyss:hover:after {
+    content: url(../img/factions/sovereignoficeabyss.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-sho:hover:after {
     content: url(../img/factions/sho.png);
     display: block;
