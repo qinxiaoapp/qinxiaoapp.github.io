@@ -20,6 +20,8 @@ var _banpick = (function () {
             { nid: "altemuller", names: { en: "altemuller", cn: "亚鲁特缪拉", tw: "亞魯特繆拉" }, thumbnail: "0_altemuller.png" },
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
+            { nid: "lanford", names: { en: "lanford", cn: "兰芳特", tw: "蘭芳特" }, thumbnail: "0_lanford.png" },
+            { nid: "empty1", names: { en: "empty1", cn: "empty1", tw: "empty1" }, thumbnail: "000_default.png" },
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
@@ -146,7 +148,6 @@ var _banpick = (function () {
             { nid: "kurama", names: { en: "kurama", cn: "藏马", tw: "藏馬" }, thumbnail: "0_kurama.png" },
             { nid: "lambda", names: { en: "lambda", cn: "拉姆达", tw: "拉姆達" }, thumbnail: "0_lambda.png" },
             { nid: "landius", names: { en: "landius", cn: "兰迪乌斯", tw: "蘭迪烏斯" }, thumbnail: "0_landius.png" },
-            { nid: "lanford", names: { en: "lanford", cn: "兰芳特", tw: "蘭芳特" }, thumbnail: "0_lanford.png" },
             { nid: "leonhardt", names: { en: "leonhardt", cn: "莱恩哈特", tw: "莱恩哈特" }, thumbnail: "0_leonhardt.png" },
             { nid: "liana", names: { en: "liana", cn: "莉亚娜", tw: "莉亞娜" }, thumbnail: "0_liana.png" },
             { nid: "licorice", names: { en: "licorice", cn: "丽可丽丝", tw: "麗可麗絲" }, thumbnail: "0_licorice.png" },
