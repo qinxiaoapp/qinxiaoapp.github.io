@@ -24,7 +24,25 @@
     margin-left: -2vw;
 }
 
+.faction-lanford:hover:after {
+    content: url(../img/factions/lanford.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 /* SP HEROS */
+
+.faction-tyrantel:hover:after {
+    content: url(../img/factions/tyrantel.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-tabres:hover:after {
+    content: url(../img/factions/tabres.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-sovereignoficeabyss:hover:after {
     content: url(../img/factions/sovereignoficeabyss.png);
