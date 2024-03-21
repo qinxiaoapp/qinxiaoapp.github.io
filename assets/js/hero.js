@@ -25,6 +25,8 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "celica", names: { en: "Celica", cn: "赛利卡", tw: "賽利卡" }, thumbnail: "25_celica.png" },
+            { nid: "ymir", names: { en: "Ymir", cn: "尤弥尔", tw: "尤彌尔" }, thumbnail: "25_ymir.png" },
             { nid: "tabres", names: { en: "Tabres", cn: "塔布莉丝", tw: "塔佈莉絲" }, thumbnail: "24_tabres.png" },
             { nid: "tyrantel", names: { en: "Tyrantel", cn: "泰兰提尔", tw: "泰蘭提爾" }, thumbnail: "24_tyrantel.png" },
             { nid: "sovereignoficeabyss", names: { en: "IceAbyss", cn: "冰渊凌御者", tw: "冰淵淩禦者" }, thumbnail: "23_sovereignoficeabyss.png" },
