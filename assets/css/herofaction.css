@@ -31,6 +31,18 @@
 }
 
 /* SP HEROS */
+.faction-shion:hover:after {
+    content: url(../img/factions/shion.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-tiana:hover:after {
+    content: url(../img/factions/tiana.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-brightsummoner:hover:after {
     content: url(../img/factions/brightsummoner.png);
     display: block;
