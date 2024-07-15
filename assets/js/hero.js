@@ -25,6 +25,8 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "MackGinzu", names: { en: "Mack&Ginzu", cn: "马克&忍者", tw: "馬克&忍者" }, thumbnail: "29_MackGinzu.png" },
+            { nid: "CaptainBaby", names: { en: "Captain&Baby", cn: "队长&婴儿", tw: "隊長&嬰兒" }, thumbnail: "29_CaptainBaby.png" },
             { nid: "shion", names: { en: "Shion", cn: "席昂", tw: "席昂" }, thumbnail: "28_shion.png" },
             { nid: "tiana", names: { en: "Tiana", cn: "缇雅娜", tw: "緹雅娜" }, thumbnail: "28_tiana.png" },
             { nid: "brightsummoner", names: { en: "Brightsummoner", cn: "辉耀圣召使", tw: "輝耀聖召使" }, thumbnail: "27_brightsummoner.png" },
