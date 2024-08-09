@@ -30,7 +30,14 @@
     margin-left: -2vw;
 }
 
-/* SP HEROS */
+/* END SP HEROS */
+
+.faction-Enya:hover:after {
+    content: url(../img/factions/Enya.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-MackGinzu:hover:after {
     content: url(../img/factions/MackGinzu.png);
     display: block;
