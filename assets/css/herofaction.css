@@ -32,6 +32,18 @@
 
 /* END SP HEROS */
 
+.faction-Ilia:hover:after {
+    content: url(../img/factions/Ilia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Alia:hover:after {
+    content: url(../img/factions/Alia.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-Enya:hover:after {
     content: url(../img/factions/Enya.png);
     display: block;
