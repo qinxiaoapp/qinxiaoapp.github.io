@@ -31,6 +31,18 @@
 }
 
 /* END SP HEROS */
+.faction-Nornorin:hover:after {
+    content: url(../img/factions/Nornorin.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Safreen:hover:after {
+    content: url(../img/factions/Safreen.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 
 .faction-Ilia:hover:after {
     content: url(../img/factions/Ilia.png);
