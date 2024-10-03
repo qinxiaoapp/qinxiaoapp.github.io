@@ -569,7 +569,6 @@ var _banpick = (function () {
         );
     })();
 window.addEventListener("pageshow", function () {
-    console.log("pageShow");
     TweenMax.to("#transition_bg", 1.4, {
         autoAlpha: 0,
         onComplete: function () {
