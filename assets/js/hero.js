@@ -25,6 +25,7 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "DragonSlayer", names: { en: "DragonSlayer", cn: "炎龙破灭者", tw: "炎龍破滅者" }, thumbnail: "32_DragonSlayer.png" },
             { nid: "Safreen", names: { en: "Safreen", cn: "萨芙琳", tw: "薩芙琳" }, thumbnail: "31_Safreen.png" },
             { nid: "Nornorin", names: { en: "Nornorin", cn: "诺诺琳", tw: "諾諾琳" }, thumbnail: "31_Nornorin.png" },
             { nid: "Ilia", names: { en: "Ilia", cn: "伊莉娅", tw: "伊莉婭" }, thumbnail: "30_Ilia.png" },
