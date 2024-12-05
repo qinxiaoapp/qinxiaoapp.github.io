@@ -21,7 +21,7 @@ var _banpick = (function () {
             { nid: "sigma", names: { en: "sigma", cn: "西格玛", tw: "西格瑪" }, thumbnail: "0_sigma.png" },
             { nid: "elwin", names: { en: "elwin", cn: "艾尔文", tw: "艾爾文" }, thumbnail: "0_elwin.png" },
             { nid: "lanford", names: { en: "lanford", cn: "兰芳特", tw: "蘭芳特" }, thumbnail: "0_lanford.png" },
-            { nid: "empty1", names: { en: "empty1", cn: "empty1", tw: "empty1" }, thumbnail: "000_default.png" },
+            { nid: "tiaris", names: { en: "tiaris", cn: "蒂亚莉丝", tw: "蒂亞莉絲" }, thumbnail: "0_tiaris.png" },
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
@@ -186,7 +186,6 @@ var _banpick = (function () {
             { nid: "shelaniel", names: { en: "shelfaniel", cn: "雪露法妮尔", tw: "雪露法妮爾" }, thumbnail: "0_shelaniel.png" },
             { nid: "shilinka", names: { en: "shilinka", cn: "希琳卡", tw: "希琳卡" }, thumbnail: "0_shilinka.png" },
             { nid: "sumire", names: { en: "sumire", cn: "神崎堇", tw: "神崎堇" }, thumbnail: "0_sumire.png" },
-            { nid: "tiaris", names: { en: "tiaris", cn: "蒂亚莉丝", tw: "蒂亞莉絲" }, thumbnail: "0_tiaris.png" },
             { nid: "togurobros", names: { en: "toguro bros", cn: "户愚吕兄弟", tw: "戶愚呂兄弟" }, thumbnail: "0_togurobros.png" },
             { nid: "tsubame", names: { en: "tsubame", cn: "燕", tw: "燕" }, thumbnail: "0_tsubame.png" },
             { nid: "virash", names: { en: "virash", cn: "维拉玖", tw: "维拉玖" }, thumbnail: "0_virash.png" },
