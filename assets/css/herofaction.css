@@ -31,6 +31,19 @@
 }
 
 /* END SP HEROS */
+
+.faction-Hibiscus:hover:after {
+    content: url(../img/factions/Hibiscus.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Randele:hover:after {
+    content: url(../img/factions/Randele.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-DragonSlayer:hover:after {
     content: url(../img/factions/DragonSlayer.png);
     display: block;
