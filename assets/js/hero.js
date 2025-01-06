@@ -25,6 +25,9 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "Kasumi", names: { en: "Kasumi", cn: "霞", tw: "霞" }, thumbnail: "34_Kasumi.png" },
+            { nid: "Nyotengu", names: { en: "Nyotengu", cn: "女天狗", tw: "女天狗" }, thumbnail: "34_Nyotengu.png" },
+            { nid: "MarieRose", names: { en: "Marie Rose", cn: "玛莉萝丝", tw: "瑪莉蘿絲" }, thumbnail: "34_MarieRose.png" },
             { nid: "Randele", names: { en: "Randele", cn: "兰黛尔", tw: "蘭黛爾" }, thumbnail: "33_Randele.png" },
             { nid: "Hibiscus", names: { en: "Hibiscus", cn: "断翼鸟", tw: "斷翼鳥" }, thumbnail: "33_Hibiscus.png" },
             { nid: "DragonSlayer", names: { en: "DragonSlayer", cn: "炎龙破灭者", tw: "炎龍破滅者" }, thumbnail: "32_DragonSlayer.png" },

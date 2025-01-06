@@ -30,7 +30,31 @@
     margin-left: -2vw;
 }
 
+.faction-tiaris:hover:after {
+    content: url(../img/factions/tiaris.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 /* END SP HEROS */
+
+.faction-Hibiscus:hover:after {
+    content: url(../img/factions/MarieRose.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Hibiscus:hover:after {
+    content: url(../img/factions/Kasumi.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Hibiscus:hover:after {
+    content: url(../img/factions/Nyotengu.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-Hibiscus:hover:after {
     content: url(../img/factions/Hibiscus.png);
