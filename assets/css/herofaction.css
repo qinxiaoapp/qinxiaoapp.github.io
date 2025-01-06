@@ -38,19 +38,19 @@
 
 /* END SP HEROS */
 
-.faction-Hibiscus:hover:after {
+.faction-MarieRose:hover:after {
     content: url(../img/factions/MarieRose.png);
     display: block;
     margin-left: -2vw;
 }
 
-.faction-Hibiscus:hover:after {
+.faction-Kasumi:hover:after {
     content: url(../img/factions/Kasumi.png);
     display: block;
     margin-left: -2vw;
 }
 
-.faction-Hibiscus:hover:after {
+.faction-Nyotengu:hover:after {
     content: url(../img/factions/Nyotengu.png);
     display: block;
     margin-left: -2vw;
