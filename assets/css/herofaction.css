@@ -36,7 +36,19 @@
     margin-left: -2vw;
 }
 
+.faction-landius:hover:after {
+    content: url(../img/factions/landius.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 /* END SP HEROS */
+
+.faction-Sylrna:hover:after {
+    content: url(../img/factions/Sylrna.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-MarieRose:hover:after {
     content: url(../img/factions/MarieRose.png);
