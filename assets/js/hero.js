@@ -26,6 +26,9 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "Shem", names: { en: "Shem", cn: "塞姆", tw: "塞姆" }, thumbnail: "35_Shem.png" },
+            { nid: "Macaera", names: { en: "Macaera", cn: "玛卡艾拉", tw: "瑪卡艾拉" }, thumbnail: "35_Shem.png" },
+            { nid: "Sylrna", names: { en: "Sylrna", cn: "席尔娜", tw: "席爾娜" }, thumbnail: "34_Sylrna.png" },
             { nid: "Sylrna", names: { en: "Sylrna", cn: "席尔娜", tw: "席爾娜" }, thumbnail: "34_Sylrna.png" },
             { nid: "Kasumi", names: { en: "Kasumi", cn: "霞", tw: "霞" }, thumbnail: "34_Kasumi.png" },
             { nid: "Nyotengu", names: { en: "Nyotengu", cn: "女天狗", tw: "女天狗" }, thumbnail: "34_Nyotengu.png" },
