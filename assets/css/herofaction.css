@@ -44,6 +44,12 @@
 
 /* END SP HEROS */
 
+.faction-Gazesuccubus:hover:after {
+    content: url(../img/factions/Gazesuccubus.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-Shem:hover:after {
     content: url(../img/factions/Shem.png);
     display: block;
