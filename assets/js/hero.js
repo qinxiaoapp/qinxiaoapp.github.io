@@ -26,6 +26,8 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "Abishai", names: { en: "Abishai", cn: "阿布沙伊特", tw: "阿佈沙伊特" }, thumbnail: "37_Abishai.png" },
+            { nid: "Lukhmaan", names: { en: "Lukhmaan", cn: "鲁克曼", tw: "鲁克曼" }, thumbnail: "37_Lukhmaan.png" },
             { nid: "Gazesuccubus", names: { en: "Gazesuccubus", cn: "幽瞳幻惑使", tw: "幽瞳幻惑使" }, thumbnail: "36_Gazesuccubus.png" },
             { nid: "Shem", names: { en: "Shem", cn: "塞姆", tw: "塞姆" }, thumbnail: "35_Shem.png" },
             { nid: "Macaera", names: { en: "Macaera", cn: "玛卡艾拉", tw: "瑪卡艾拉" }, thumbnail: "35_Macaera.png" },

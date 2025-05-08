@@ -44,6 +44,19 @@
 
 /* END SP HEROS */
 
+.faction-Abishai:hover:after {
+    content: url(../img/factions/Abishai.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Lukhmaan:hover:after {
+    content: url(../img/factions/Lukhmaan.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+
 .faction-Gazesuccubus:hover:after {
     content: url(../img/factions/Gazesuccubus.png);
     display: block;
