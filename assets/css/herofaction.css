@@ -42,7 +42,24 @@
     margin-left: -2vw;
 }
 
+.faction-luna:hover:after {
+    content: url(../img/factions/luna.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 /* END SP HEROS */
+.faction-Reah:hover:after {
+    content: url(../img/factions/Reah.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Elvis:hover:after {
+    content: url(../img/factions/Elvis.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-Abishai:hover:after {
     content: url(../img/factions/Abishai.png);
