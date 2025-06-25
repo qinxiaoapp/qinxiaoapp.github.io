@@ -27,6 +27,9 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "Erza", names: { en: "Erza", cn: "艾露莎", tw: "艾露莎" }, thumbnail: "39_Erza.png" },
+            { nid: "Natsu", names: { en: "Natsu", cn: "纳兹", tw: "納茲" }, thumbnail: "39_Natsu.png" },
+            { nid: "Lucy", names: { en: "Lucy", cn: "露西", tw: "露西" }, thumbnail: "39_Lucy.png" },
             { nid: "Reah", names: { en: "Reah", cn: "蕾雅", tw: "蕾雅" }, thumbnail: "38_Reah.png" },
             { nid: "Elvis", names: { en: "Elvis", cn: "埃尔维斯", tw: "埃爾維斯" }, thumbnail: "38_Elvis.png" },
             { nid: "Abishai", names: { en: "Abishai", cn: "阿布沙伊特", tw: "阿佈沙伊特" }, thumbnail: "37_Abishai.png" },

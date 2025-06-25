@@ -49,6 +49,25 @@
 }
 
 /* END SP HEROS */
+
+.faction-Erza:hover:after {
+    content: url(../img/factions/Erza.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Lucy:hover:after {
+    content: url(../img/factions/Lucy.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Natsu:hover:after {
+    content: url(../img/factions/Natsu.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 .faction-Reah:hover:after {
     content: url(../img/factions/Reah.png);
     display: block;
