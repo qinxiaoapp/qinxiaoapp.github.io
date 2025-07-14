@@ -48,7 +48,25 @@
     margin-left: -2vw;
 }
 
+.faction-bozel:hover:after {
+    content: url(../img/factions/bozel.png);
+    display: block;
+    margin-left: -2vw;
+}
+
 /* END SP HEROS */
+
+.faction-Rapier:hover:after {
+    content: url(../img/factions/Rapier.png);
+    display: block;
+    margin-left: -2vw;
+}
+
+.faction-Sharikh:hover:after {
+    content: url(../img/factions/Sharikh.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-Erza:hover:after {
     content: url(../img/factions/Erza.png);
