@@ -28,6 +28,7 @@ var _banpick = (function () {
             { nid: "empty2", names: { en: "empty2", cn: "empty2", tw: "empty2" }, thumbnail: "000_default.png" },
             { nid: "empty3", names: { en: "empty3", cn: "empty3", tw: "empty3" }, thumbnail: "000_default.png" },
 
+            { nid: "Humbaba", names: { en: "Humbaba", cn: "蝴姆巴巴", tw: "蝴姆巴巴" }, thumbnail: "41_Humbaba.png" },
             { nid: "Rapier", names: { en: "Rapier", cn: "蕾贝尔", tw: "蕾貝爾" }, thumbnail: "40_Rapier.png" },
             { nid: "Sharikh", names: { en: "Sharikh", cn: "沙里克", tw: "沙裡克" }, thumbnail: "40_Sharikh.png" },
             { nid: "Erza", names: { en: "Erza", cn: "艾露莎", tw: "艾露莎" }, thumbnail: "39_Erza.png" },

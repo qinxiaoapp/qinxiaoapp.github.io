@@ -55,6 +55,11 @@
 }
 
 /* END SP HEROS */
+.faction-Humbaba:hover:after {
+    content: url(../img/factions/Humbaba.png);
+    display: block;
+    margin-left: -2vw;
+}
 
 .faction-Rapier:hover:after {
     content: url(../img/factions/Rapier.png);
